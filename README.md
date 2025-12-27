@@ -1,90 +1,67 @@
 
+<!--
+README.md — GitHub Profile
+Author: Vivek Rampersad
+Purpose: Showcase robotics, automation, and systems integration expertise
+-->
 
-<h1 align="center">Hi 👋, I'm Vivek Rampersad</h1>
-<h3 align="center">Robotics Engineer • Automation Specialist • Digital Twin Innovator</h3>
+# 👋 Hi, I'm **Vivek Rampersad**
 
-<p align="center">
-  https://linkedin.com/in/vivekrampersad
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&din
-  </a>
-  mailto:VivekRampersad@gmail.com
-    https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail
-  </a>
-</p>
+**Robotics & Automation Engineer** specializing in **AMRs/AGVs**, **digital twins**, and **industrial systems integration**.  
+I design, deploy, and optimize automation at scale—connecting robots, PLCs, HMIs/SCADA, and MES/WMS platforms to deliver measurable performance and reliability.
 
----
-
-### 🧠 About
-I build and integrate robotics and automation systems at scale—AMR fleets, AGVs, AS/RS, conveyors, and high‑availability PLC/HMI/SCADA stacks—fusing **ROS/ROS2**, **Python/C++**, and **Ignition SCADA** with **MES/WMS** orchestration. I deliver resilient motion, calibration, and networking, and ship **digital twins** that de‑risk deployments and save real money.
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  <img src="https://img.shields.io/badge/C++-le=for-the-badge&logo=c%2B%2B&logoColor=white
-  <img src="https://img.shields.io/b2314E?style=for-the-badge&logo=ros&logoColor=white
-  <img src="https://img.shields.io/badge/Ignition%20SCADA-FF7for-the-badge&logo=apache%20ignite&logoColor=white
-  <img src="https://img.shields.io/badge/Rockwell%20PLC-CC0000?style=for-the-badge&logoautomation&logoColor=white
-  <img src="https://img.shields.io/badge/SolidWorks-EF1C24?style=for-the-badge&logo=solidworks&logoColorttps://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white
-</p>
+- 📍 Whitby, ON  
+- ✉️ Email: **VivekRampersad@gmail.com**  
+- 🔗 LinkedIn: **[linkedin.com/in/vivekrampersad](https://linkedin.com/in/vivekrampDeployment & Orchestration:** AMR/AGV systems (Zebra Robotics), ASRS, conveyors, palletizers  
+- **Controls & Integration:** Allen-Bradley PLCs (ControlLogix), Ignition, Wonderware, HMI/SCADA  
+- **Digital Twin & Simulation:** Python-based PLC I/O sims, FlexSim, Gazebo, MATLAB/Simulink  
+- **Production-Grade Software:** ROS/ROS2, C/C++, Python for motion, perception, and tooling  
+- **Networking & Diagnostics:** TCP/IP, MQTT, REST APIs, Wireshark, NetSpot, Grafana for KPIs  
+- **Lifecycle Excellence:** Commissioning, FAT/SAT/UAT, incident triage, SOPs, vendor management
 
 ---
 
-## 💼 Experience (Robotics + Software)
+## 🧰 Tech Stack
 
-<details>
-<summary><b>Senior Applications/System Engineer — Zebra Robotics Automation (Oct 2024 – Present)</b></summary>
+**Languages:** `Python` · `C/C++` · `SQL`  
+**Robotics:** `ROS` · `ROS2` · `Gazebo`  
+**Controls:** `Allen-Bradley PLC (ControlLogix)` · `Ignition` · `Wonderware`  
+**Simulation & CAD:** `SolidWorks` · `FlexSim` · `MATLAB/Simulink` · `LabVIEW`  
+**Data & APIs:** `REST` · `MQTT` · `Webhook` · `POSTMAN`  
+**Ops & Tools:** `Grafana` · `Wireshark` · `NetSpot` · `Ansible` · `Jira`  
+**Standards:** `ISO/IEC` · `Lean Manufacturing`
 
-- **AMR fleet engineering:** Planned, deployed, and commissioned **Zebra (Fetch) AMR** fleets; tuned navigation, localization, and traffic management for throughput and safety.
-- **Systems integration:** Orchestrated PLC/MES/WMS interfaces; built robust API/Webhook bridges and message routing (MQTT/REST) to unify fleet + WMS events.
-- **DevOps for robots:** Authored **Python + Ansible** scripts for reliable multi‑robot config management, logs, KPI export; automated updates and health checks.
-- **Wireless reliability:** Site surveys and Wi‑Fi analysis (NetSpot/Wireshark) to eliminate roaming dead‑zones, reduce packet loss, and stabilize QoS telemetry.
-- **Acceptance & governance:** Owned FAT/SAT/UAT and vendor coordination; ensured change control, rollback plans, and documentation (SOPs).
-
-**Demo — Zebra / Fetch AMR**
-[![ZebraMR (short)
-</details>
+> Tip: Add shields/badges later using `shields.io` for versions and stacks.
 
 ---
 
-<details>
-<summary><b>Senior Programmer Analyst — LCBO (Aug 2019 – Oct 2024)</b></summary>
+## 🔎 Featured Work (Short Highlights)
 
-- **Warehouse control software:** Maintained and enhanced **real‑time WCS** integrating AGVs, conveyors, palletizers, cranes, and AS/RS with upstream **WMS/WES**.
-- **Digital twin for PLC I/O:** Built a **Python‑based PLC I/O emulator** for pallet handling to validate logic offline—reducing risk and saving ≈ **$300K/year**.
-- **Ignition SCADA HMIs:** Engineered operator dashboards and analytics views aggregating telemetry from AGVs/conveyors/cranes for actionable visibility.
-- **Modernization:** Led migration from legacy controls to **Rockwell ControlLogix**; validated via Ignition + SoftLogix simulation and protocol analysis (Wireshark).
-- **SRE practices:** Incident triage, root cause analysis, test harnesses, and SOPs to prevent recurrence and improve MTTR.
+- **Digital Twin for PLC I/O**  
+  Built a Python-based simulation platform to emulate pallet handling operations for a large automated warehouse—**saving ~\$300,000 CAD annually** by eliminating risky in-production testing.  
+  _Tech:_ Python, ControlLogix, Ignition, Grafana, Wireshark
 
-**Demos — LCBO / Ignition / Automation**
-![LCBO Demo 1[![LCBO Demo 2](https://img.youtube.com/vi/dYYGeU2V3MI/max6wmtyv5Field Applications Engineer — Avidbots (May 2017 – Jun 2019)</b></summary>
+- **AMR Fleet Deployment & Integration**  
+  Led **end-to-end** deployment/integration of **Zebra AMRs** across multiple sites; integrated with **MES/WMS** and **PLC orchestration**, implemented KPIs through logs/APIs, improved fleet reliability.  
+  _Tech:_ ROS/ROS2, REST APIs, MQTT, Grafana, Python, Ansible
 
-- **Global deployments:** Commissioned robots across varied facilities; adapted motion and cleaning plans to operational constraints.
-- **ROS simulation:** Modeled environments and validated behavior before physical trials; reduced on‑site tuning cycles and incident rates.
-- **Process improvements:** Formalized ECRs and Jira triage; established feedback loops between field issues and software releases.
-</details>
+- **ROS Simulation for Field Robots**  
+  Modeled and validated robot performance across new environments **pre-deployment**, reduced commissioning risk and time; formalized **ECR** and **incident triage** in Jira.  
+  _Tech:_ ROS, Gazebo, Python, Jira
 
----
-
-## 🚀 Selected Projects
-
-- **PLC I/O Digital Twin** — Python simulator emulating pallet flow and control logic; enables offline validation and A/B experiments.
-- **AMR Fleet Ops Toolkit** — Scripts for provisioning, log harvesting, KPI dashboards (Grafana), and API integrations with MES/WMS.
-- **Ignition Analytics Views** — Role‑based HMIs and alarm KPIs to drive action on throughput, dwell times, and exception handling.
+> I’m currently working on public, generalized versions of these projects. Watch this space for repositories!
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=vivekrampersad&show_icons=true&theme=radical
-  https://github-readme-streak-stats.herokuapp.com/?user=vivekrampersad&theme=radical
-</p>
+## 🗂️ Repository Map (Suggested Structure)
 
----
-
-### 🎯 Extras
-- !Visitors
-- ![Quote](https://quotes-github-read:** VivekRampersad@gmail.com • **Phone:** 647‑570‑1947
+```text
+.
+├─ /digital-twin-sim/         # Python-based PLC I/O simulator (generic)
+├─ /amr-fleet-tools/          # Scripts & docs for AMR deployment (configs, health checks)
+├─ /ros-sim-playground/       # Reproducible ROS/Gazebo worlds & demos
+├─ /hmi-scada-examples/       # Ignition views, KPIs, dashboards (mock data)
+├─ /networking-lab/           # MQTT/REST test harnesses, Wireshark filters, diagnostics
+└─ /docs/                     # Whitepapers, SOPs, architecture notes, case studies
 ``
 
